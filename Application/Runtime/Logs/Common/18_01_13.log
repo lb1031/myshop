@@ -1,0 +1,36 @@
+[ 2018-01-13T16:01:25+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-01-13T16:01:36+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-01-13T16:02:12+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-01-13T20:58:54+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-01-13T21:37:49+08:00 ] 127.0.0.1 /Public/umsdfsdf/themes/default/css/umeditor.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:Public
+
+[ 2018-01-13T21:38:29+08:00 ] 127.0.0.1 /Public/umeditor1_2_2-utf8-php/lang/zh-cn/zh-cn.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+ERR: 无法加载模块:Public
+
